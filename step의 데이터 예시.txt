@@ -1,0 +1,2 @@
+{"duration":{"text":"8분","value":502},"start_location":{"lng":127.043662,"lat":37.283057},"distance":{"text":"0.5 km","value":501},"travel_mode":"WALKING","html_instructions":"아주대.아주대
+학교병원까지 도보","end_location":{"lng":127.043671,"lat":37.278543},"steps":[{"duration":{"text":"8분","value":502},"start_location":{"lng":127.043662,"lat":37.283057},"distance":{"text":"0.5 km","value":501},"travel_mode":"WALKING","end_location":{"lng":127.043671,"lat":37.278543},"polyline":{"points":"czpbF{elfWf[A"}}],"polyline":{"points":"czpbF{elfWf[A"}}
